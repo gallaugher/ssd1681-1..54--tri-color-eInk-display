@@ -5,3 +5,5 @@ I've also added a button & LED light. When the light is on (after 3 minutes of u
 - Adafruit EYESPI Breakout Board - 18 Pin FPC Connector - https://www.adafruit.com/product/5613
 
 [![Watch the video](https://img.youtube.com/vi/93WoVrZChrM/hqdefault.jpg)](https://youtu.be/93WoVrZChrM)
+
+<img width="800" alt="wiring diagram" src="https://github.com/user-attachments/assets/08abb6bb-b513-48a5-8557-e9e649bf4175" />
